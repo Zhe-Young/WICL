@@ -42,7 +42,6 @@ For example, if you want to test on 'sst2' and 'mr', you can set `tasks = ('sst2
 <!-- `--indicator` is can be `MSP` or `validate_xx`(e.g. `validate_20`). For weight search, you can use MSP as a guidence under true few-shot setting. If an held-out validation set of xx examples as available, you can validate on this set as a guidence.  
 `--beam_num` is a hyperparameter for beam serach  
 `--re_weight_place` indicates how to add weights to ICL examples   -->
-test
 
 
 
